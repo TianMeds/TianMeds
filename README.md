@@ -1,5 +1,7 @@
 ### Hello World, I'm Christian 👋
 
+### I'm a BSIT Student, Future Software Engineer, Developer, Designer and Content Creator.
+
 I'm **Christian Medallada**, a BSIT Student based in **Makati, Philippines**
 
 * ✍You can Find my projects here [Tian Portfolio](https://tianmeds.github.io/TianPortfolio/)
