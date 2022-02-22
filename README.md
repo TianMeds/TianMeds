@@ -1,10 +1,10 @@
-### Hello World, I'm Christian 👋
+### Hello World, I'm Christian <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+<a href="https://github.com/Follow/TianMeds" title="Follow Christian Medallada"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
 
 <img align="right" alt="GIF" src="https://github.com/TianMeds/TianMeds/blob/main/Program.gif?raw=true" width="500" height="320" />
 
-### I'm a BSIT Student, Future Software Engineer, Developer, Designer and Content Creator.
-
-I'm **Christian Medallada**, a BSIT Student based in **Makati, Philippines**
+I am Christian Medallada, people call me Meds, currently pursuing my bachelor's degree majoring in Information Technology from [Asia Pacific College](https://www.apc.edu.ph). I am a tech enthusiast & an open source advocate. I am always open to designing and criticizing on projects and innovative/Unique ideas.
 
 * ✍You can Find my projects here [Tian Portfolio](https://tianmeds.github.io/TianPortfolio/)
 * 🔭 I’m currently working on my second website 
@@ -31,6 +31,16 @@ I'm **Christian Medallada**, a BSIT Student based in **Makati, Philippines**
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>](https://tianmeds.github.io/TianPortfolio/)
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/>](https://tianmeds.github.io/TianPortfolio/)
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/officel/40/000000/java-eclipse.png"/>](https://tianmeds.github.io/TianPortfolio/)
+
+
+### Now Playing
+<p align="center">
+  <a href="https://open.spotify.com/embed/track/2q3LzfknBzye3xXjgiJBjS?utm_source=generator">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://open.spotify.com/embed/track/2q3LzfknBzye3xXjgiJBjS?utm_source=generator">
+  </a>
+</p>
+
 
 ----------
 <details>
