@@ -16,7 +16,7 @@ I'm **Christian Medallada**, a BSIT Student based in **Makati, Philippines**
 ### Talk with me, I like to chat and socialize.
 [<img align="left" alt="Tian | Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" />](https://www.facebook.com/Cmedsss)
 [<img align="left" alt="Tian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/tiaanmeds/)
-[<img align="left" alt="Tian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://twitter.com/TianMeds)
+[<img align="left" alt="Tian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/TianMeds)
 
 
 <br />
