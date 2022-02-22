@@ -22,13 +22,13 @@ I'm **Christian Medallada**, a BSIT Student based in **Makati, Philippines**
 
 ### Language and Appications
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://tianmeds.github.io/TianPortfolio/)
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>](https://tianmeds.github.io/TianPortfolio/)
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>](https://tianmeds.github.io/TianPortfolio/)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://tianmeds.github.io/TianPortfolio/)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://tianmeds.github.io/TianPortfolio/)
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/>](https://tianmeds.github.io/TianPortfolio/)
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>](https://tianmeds.github.io/TianPortfolio/)
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/>](https://tianmeds.github.io/TianPortfolio/)
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>](https://tianmeds.github.io/TianPortfolio/)
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/officel/40/000000/java-eclipse.png"/>](https://tianmeds.github.io/TianPortfolio/)
   
 <!--
