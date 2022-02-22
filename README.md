@@ -18,6 +18,7 @@ I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's 
 [![Instagram: Christian Medallada](https://img.shields.io/badge/-TianMeds-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tiaanmeds/)](https://www.instagram.com/tiaanmeds/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/TianMeds)
 [![Linkedin: Christian Medallada](https://img.shields.io/badge/-Christian_Medallada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tianmeds/)](https://www.linkedin.com/in/tianmeds/)
+![Tiktok Follow](https://img.shields.io/tiktok/follow/TianMeds)
 <br />
 
 ### Language and Appications
