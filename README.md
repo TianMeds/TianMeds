@@ -14,7 +14,7 @@ I'm **Christian Medallada**, a BSIT Student based in **Makati, Philippines**
 * ⚡ Fun fact: I speak 2 languages ( English, Tagalog )
 
 ### Talk with me, I like to chat and socialize.
-[<img align="left" alt="holisitc_developer | Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" />
+[<img align="left" alt="holisitc_developer | Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" />][Messenger](https://www.facebook.com/Cmedsss)
   
 <!--
 **TianMeds/TianMeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
