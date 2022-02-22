@@ -14,7 +14,10 @@ I'm **Christian Medallada**, a BSIT Student based in **Makati, Philippines**
 * ⚡ Fun fact: I speak 2 languages ( English, Tagalog )
 
 ### Talk with me, I like to chat and socialize.
-"https://img.icons8.com/color/48/000000/facebook-messenger--v4.png"/>" />](https://www.facebook.com/Cmedsss)
+[<img align="left" alt="Tian | Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" />](https://www.facebook.com/Cmedsss)
+[<img align="left" alt="Tian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/tiaanmeds/)
+[<img align="left" alt="Tian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://twitter.com/TianMeds)
+
 
 <br />
 
