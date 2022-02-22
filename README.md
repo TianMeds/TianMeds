@@ -17,7 +17,7 @@ I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's 
 [![Facebook: Christian Medallada](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Cmedsss)](https://www.facebook.com/Cmedsss)
 [![Instagram: Christian Medallada](https://img.shields.io/badge/-TianMeds-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tiaanmeds/)](https://www.instagram.com/tiaanmeds/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/TianMeds)
-[![Linkedin: Christian Medallada](https://img.shields.io/badge/-Christian-Medallada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tianmeds/)](https://www.linkedin.com/in/tianmeds/)
+[![Linkedin: Christian Medallada](https://img.shields.io/badge/-Christian_Medallada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tianmeds/)](https://www.linkedin.com/in/tianmeds/)
 <br />
 
 ### Language and Appications
