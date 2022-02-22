@@ -35,8 +35,10 @@ I'm **Christian Medallada**, a BSIT Student based in **Makati, Philippines**
 ----------
 <details>
 <summary>:zap: GitHub Stats</summary>
+  
   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TianMeds&show_icons=true&hide_border=true" />
 </details>
+
 
 <details>
   <summary>:zap: Most Used Languages</summary>
