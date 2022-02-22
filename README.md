@@ -14,7 +14,7 @@ I'm **Christian Medallada**, a BSIT Student based in **Makati, Philippines**
 * ⚡ Fun fact: I speak 2 languages ( English, Tagalog )
 
 ### Talk with me, I like to chat and socialize.
-[<img align="left" alt="holisitc_developer | Messenger" width="22px" src="<img src="https://img.icons8.com/color/48/000000/facebook-messenger--v4.png"/>" />](https://www.facebook.com/Cmedsss)
+"https://img.icons8.com/color/48/000000/facebook-messenger--v4.png"/>" />](https://www.facebook.com/Cmedsss)
 
 <br />
 
