@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/TianMeds/TianMeds/blob/main/Program.gif?raw=true" width="500" height="320" />
 
-I am Christian Medallada, people call me Meds, currently pursuing my bachelor's degree majoring in Information Technology from [Asia Pacific College](https://www.apc.edu.ph). I am a tech enthusiast & an open source advocate. I am always open to designing and criticizing on projects and innovative/Unique ideas.
+I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's Degree majoring in Information Technology from [Asia Pacific College](https://www.apc.edu.ph). I am a tech enthusiast & an open source advocate. I am always open to designing and criticizing on projects and innovative/Unique ideas.
 
 * ✍You can Find my projects here [Tian Portfolio](https://tianmeds.github.io/TianPortfolio/)
 * 🔭 I’m currently working on my second website 
