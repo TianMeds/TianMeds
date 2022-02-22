@@ -14,11 +14,9 @@ I am Christian Medallada, people call me Meds, currently pursuing my bachelor's 
 * ⚡ Fun fact: I speak 2 languages ( English, Tagalog )
 
 ### Talk with me, I like to chat and socialize.
-[<img align="left" alt="Tian | Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" />](https://www.facebook.com/Cmedsss)
-[<img align="left" alt="Tian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/tiaanmeds/)
-[<img align="left" alt="Tian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/TianMeds)
+[![Facebook: Christian Medallada](https://img.shields.io/badge/-Facebook-black?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Cmedsss)](https://www.facebook.com/Cmedsss)
 [![Instagram: Christian Medallada](https://img.shields.io/badge/-TianMeds-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tiaanmeds/)](https://www.instagram.com/tiaanmeds/)
-![Twitter Follow](https://img.shields.io/twitter/follow/TianMeds_?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/TianMeds)
 <br />
 
 ### Language and Appications
