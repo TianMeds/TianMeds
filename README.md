@@ -13,6 +13,9 @@ I'm **Christian Medallada**, a BSIT Student based in **Makati, Philippines**
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I speak 2 languages ( English, Tagalog )
 
+### Talk with me, I like to chat and socialize.
+[<img align="left" alt="holisitc_developer | Messenger" width="22px" src=https://img.icons8.com/color/100/000000/facebook-messenger--v1.png" />][Messenger]
+  
 <!--
 **TianMeds/TianMeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
