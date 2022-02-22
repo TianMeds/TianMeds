@@ -1,5 +1,7 @@
 ### Hello World, I'm Christian 👋
 
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
 ### I'm a BSIT Student, Future Software Engineer, Developer, Designer and Content Creator.
 
 I'm **Christian Medallada**, a BSIT Student based in **Makati, Philippines**
