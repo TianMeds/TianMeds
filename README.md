@@ -1,4 +1,4 @@
-### Hello World, I'm Christian <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+### Hello World, I'm Christian <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">
 
 [![GitHub TianMeds](https://img.shields.io/github/followers/TianMeds?label=follow&style=social)](https://github.com/TianMeds)
 
