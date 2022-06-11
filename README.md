@@ -1,4 +1,8 @@
-### Hello World, I'm Christian <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">
+[![MasterHead](https://drive.google.com/file/d/14rFbZP5BUxUAiXYZ0zdWH71UWBb1NF8R/view?usp=sharing)](https://tianmeds.me)
+
+<h1 align="center">Hi 👋, I'm Christian Medallada</h1>
+<h3 align="center">A passionate and aspiring Software Engineer in Makati</h3>
+<img align="right" alt="GIF" src="https://github.com/TianMeds/TianMeds/blob/main/Program.gif?raw=true" width="500" height="320" />
 
 [![GitHub TianMeds](https://img.shields.io/github/followers/TianMeds?label=follow&style=social)](https://github.com/TianMeds)
 
@@ -6,7 +10,7 @@
 
 I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's Degree majoring in Information Technology from [Asia Pacific College](https://www.apc.edu.ph). I am a tech enthusiast & an open source advocate. I am always open to designing and criticizing on projects and innovative/Unique ideas.
 
-* ✍You can Find my projects here [Tian Portfolio](https://tianmeds.github.io/TianPortfolio/)
+* ✍You can Find my projects here [Tian Portfolio](https://tianmeds.me)
 * 🔭 I’m currently working on my second website 
 * 🌱 I’m currently learning Python and Java 
 * 💬 Ask me about Website Design, Motion Graphics, Coding, Photo and Video Editing, and Computer Parts
@@ -23,31 +27,26 @@ I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's 
 
 ### Language and Appications
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://tianmeds.github.io/TianPortfolio/)
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>](https://tianmeds.github.io/TianPortfolio/)
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>](https://tianmeds.github.io/TianPortfolio/)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://tianmeds.github.io/TianPortfolio/)
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>](https://tianmeds.github.io/TianPortfolio/)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://tianmeds.github.io/TianPortfolio/)
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>](https://tianmeds.github.io/TianPortfolio/)
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>](https://tianmeds.github.io/TianPortfolio/)
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/>](https://tianmeds.github.io/TianPortfolio/)
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/officel/40/000000/java-eclipse.png"/>](https://tianmeds.github.io/TianPortfolio/)
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>](https://tianmeds.me)
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>](https://tianmeds.me)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://tianmeds.me)
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>](https://tianmeds.me)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://tianmeds.me)
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>](https://tianmeds.me)
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>](https://tianmeds.me)
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/>](https://tianmeds.me)
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/officel/40/000000/java-eclipse.png"/>](https://tianmeds.me)
 
 
 
 ----------
-<details>
-<summary>:zap: GitHub Stats</summary>
   
   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TianMeds&show_icons=true&hide_border=true" />
-</details>
-
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
   
   <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TianMeds" />
-</details>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TianMeds&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 <!--
 **TianMeds/TianMeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
