@@ -15,7 +15,7 @@ I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's 
 
 * ✍You can Find my projects here [Tian Portfolio](https://tianmeds.me)
 * 🔭 I’m currently working on my second website 
-* 🌱 I’m currently learning Python and Java 
+* 🌱 I’m currently learning Python, JavaScript, React and SQL
 * 💬 Ask me about Website Design, Motion Graphics, Coding, Photo and Video Editing, and Computer Parts
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I speak 2 languages ( English, Tagalog )
