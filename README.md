@@ -14,7 +14,7 @@
 I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's Degree majoring in Information Technology from [Asia Pacific College](https://www.apc.edu.ph). I am a tech enthusiast & an open source advocate. I am always open to designing and criticizing on projects and innovative/Unique ideas.
 
 * ✍You can Find my projects here [Tian Portfolio](https://tianmeds.me)
-* 🔭 I’m currently working on my second website 
+* 🔭 I’m currently working on a side project which is Weather App
 * 🌱 I’m currently learning Python, JavaScript, React and SQL
 * 💬 Ask me about Website Design, Motion Graphics, Coding, Photo and Video Editing, and Computer Parts
 * 😄 Pronouns: He/Him
