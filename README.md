@@ -26,6 +26,7 @@ I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's 
 [![Linkedin: Christian Medallada](https://img.shields.io/badge/-Christian_Medallada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tianmeds/)](https://www.linkedin.com/in/tianmeds/)
 [![TikTok: tianmeds](https://img.shields.io/badge/-TikTok-black?style=flat-square&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@tianmeds)](https://www.tiktok.com/@tianmeds)
 <br />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ### Language and Appications
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://tianmeds.me)
