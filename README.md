@@ -9,7 +9,7 @@
 I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's Degree majoring in Information Technology from [Asia Pacific College](https://www.apc.edu.ph). I am a tech enthusiast & an open source advocate. I am always open to designing and criticizing on projects and innovative/Unique ideas.
 
 * ✍You can Find my projects here [Tian Portfolio](https://tianmeds.me)
-* 🔭 I’m currently working as a Software Developer Intern at Andio IT Solution
+* 🔭 I’m currently working as a **Software Developer Intern** **@Andio IT Solution**
 * 🌱 I’m mostly code using JavaScript,PHP, NextJS, and Laravel.
 * ⚡ Fun fact: I speak 2 languages ( English, Tagalog )
 
@@ -21,8 +21,24 @@ I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's 
 <br />
 
 ### Language and Appications
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://tianmeds.me)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 
 ----------
@@ -31,9 +47,6 @@ I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianMeds&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TianMeds&theme=dark)](https://git.io/streak-stats)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TianMeds&repo=my-Official-Portfolio&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **TianMeds/TianMeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
