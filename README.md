@@ -4,14 +4,12 @@
 
 [![GitHub TianMeds](https://img.shields.io/github/followers/TianMeds?label=follow&style=social)](https://github.com/TianMeds) 
 <br>
-![Twitter Follow](https://img.shields.io/twitter/follow/TianMeds)
 
 I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's Degree majoring in Information Technology from [Asia Pacific College](https://www.apc.edu.ph). I am a tech enthusiast & an open source advocate. I am always open to designing and criticizing on projects and innovative/Unique ideas.
 
 * ✍You can Find my projects here [Tian Portfolio](https://tianmeds.me)
 * 🔭 I’m currently working as a **Software Developer Intern** **@Andio IT Solution**
 * 🌱 I’m mostly code using JavaScript,PHP, NextJS, and Laravel.
-* ⚡ Fun fact: I speak 2 languages ( English, Tagalog )
 
 ### Talk and Connect with Me.
 [![Facebook: Christian Medallada](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Cmedsss)](https://www.facebook.com/TianMeds/)
