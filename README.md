@@ -20,17 +20,9 @@ I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's 
 [![TikTok: tianmeds](https://img.shields.io/badge/-TikTok-black?style=flat-square&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@tianmeds)](https://www.tiktok.com/@tianmeds)
 <br />
 
-### Language and Appications
+### Top Skills
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://tianmeds.me)
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>](https://tianmeds.me)
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>](https://tianmeds.me)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://tianmeds.me)
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>](https://tianmeds.me)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://tianmeds.me)
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>](https://tianmeds.me)
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>](https://tianmeds.me)
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/>](https://tianmeds.me)
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/officel/40/000000/java-eclipse.png"/>](https://tianmeds.me)
+![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
 
 
 ----------
