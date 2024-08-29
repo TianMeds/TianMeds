@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Christian Medallada</h1>
-<h3 align="center">Software Developer Intern</h3>
 <img align="right" alt="GIF" src="https://github.com/TianMeds/TianMeds/blob/main/Program.gif?raw=true" width="500" height="320" />
 
 [![GitHub TianMeds](https://img.shields.io/github/followers/TianMeds?label=follow&style=social)](https://github.com/TianMeds) 
-<br>
-![Twitter Follow](https://img.shields.io/twitter/follow/TianMeds)
 
 I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's Degree majoring in Information Technology from [Asia Pacific College](https://www.apc.edu.ph). I am a tech enthusiast & an open source advocate. I am always open to designing and criticizing on projects and innovative/Unique ideas.
 
-* ✍You can Find my projects here [Tian Portfolio](https://tianmeds.me)
+* ✍You can Find my projects here [Tian Portfolio](https://tianmeds-portfolio.vercel.app/)
 * 🔭 I’m currently working as a **Software Developer Intern** **@Andio IT Solution**
 * 🌱 I’m mostly code using JavaScript,PHP, NextJS, and Laravel.
-* ⚡ Fun fact: I speak 2 languages ( English, Tagalog )
 
 ### Talk and Connect with Me.
 [![Facebook: Christian Medallada](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Cmedsss)](https://www.facebook.com/TianMeds/)
@@ -33,6 +29,7 @@ I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
