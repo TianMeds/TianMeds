@@ -4,8 +4,8 @@
 I am Christian Medallada, people call me Meds, currently pursuing my Bachelor's Degree majoring in Information Technology from [Asia Pacific College](https://www.apc.edu.ph). I am a tech enthusiast & an open source advocate. I am always open to designing and criticizing on projects and innovative/Unique ideas.
 
 * ✍You can Find my projects here [Tian Portfolio](https://www.tianmeds.tech)
-* 🔭 I’m currently working as a **Software Developer Intern** **@Andio IT Solution**
-* 🌱 I’m mostly code using JavaScript,PHP, NextJS, and Laravel.
+* 🔭 I’m currently working as a **Full Stack Developer Intern** **@Wizard Group**
+* 🌱 I’m mostly code using Python, JavaScript, PHP, NextJS, and Laravel.
 
 ### Talk and Connect with Me.
 [![Facebook: Christian Medallada](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Cmedsss)](https://www.facebook.com/TianMeds/)
